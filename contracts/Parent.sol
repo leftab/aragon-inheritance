@@ -1,6 +1,5 @@
 pragma solidity ^0.4.4;
 
-
 contract Parent {
     event ParentValueChange(address indexed entity, uint value);
 
